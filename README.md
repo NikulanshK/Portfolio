@@ -32,6 +32,7 @@ Data-driven Product Management aspirant with **3+ years of experience** in Digit
 * **Problem Identification:** Identified the critical **"Small-Talk Valley"** phenomenon where **71.9% of chats stall**, with **84.4% of users** citing safety concerns as the primary barrier to meeting offline.
 * **Solution:** Conceptualized a "Mandatory Video Call & SOS" feature to validate user identity, creating a secure environment for the 18-24 age demographic.
 * **Technical Implementation:** Engineered a **technical system diagram** detailing the interaction between User Mobile Apps, API Gateways, and Safety APIs to ensure real-time location sharing during emergencies.
+* <img src="./system_architecture.png" width="700" alt="System Architecture Diagram">
 * **Strategic Prioritization:** Prioritized the MVP roadmap using the **RICE framework**, achieving a confidence score of 25 for the "Verified Profiles + SOS" solution over lower-impact alternatives.
 ***Success Metrics:** Defined **"Percentage of matches progressing to confirmed meetings"** as the North Star Metric and "Video Call Engagement Rate" as a leading indicator.
 
