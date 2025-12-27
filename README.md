@@ -42,6 +42,7 @@ Data-driven Product Management aspirant with **3+ years of experience** in Digit
 **Focus:** Growth & Feature Adoption | **Role:** Product Owner
 
 * **Diagnosis:** Diagnosed a **76% feature unawareness rate** among the student demographic through rigorous market research and competitor analysis.
+* <img src="./market_research_charts.png" width="600" alt="Market Research Pie Charts showing 76% unawareness">
 * **The "fix":** Spearheaded the design of an "Onboarding Awareness" flow to disrupt UI blindness without compromising the app's minimalist aesthetic.
 * **Impact Forecast:** Forecasted a **2x increase in adoption rate (7% → 15%)** by optimizing the discoverability funnel.
 * **UX Design:** Constructed low-fidelity wireframes to visualize the user journey from feature discovery to first successful voice query.
